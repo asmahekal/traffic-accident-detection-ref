@@ -16,7 +16,9 @@ Code, data splits and results for the article
 | Syed T. Shah | [0000-0003-4722-1786](https://orcid.org/0000-0003-4722-1786) |
 | Ahmed Gamal Abdellatif | [0000-0002-3440-8448](https://orcid.org/0000-0002-3440-8448) |
 
-Archived version: Zenodo, DOI **[NEW_DOI]**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24335870.svg)](https://doi.org/10.5281/zenodo.24335870)
+
+Archived version: Zenodo, DOI [10.5281/zenodo.24335870](https://doi.org/10.5281/zenodo.24335870)
 
 The repository contains everything needed to reproduce every number in the article:
 the leakage-free data split, the training and evaluation of five YOLO detectors, the

@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the article below."
 title: "Code for: YOLOv12-Based Real-Time Detection and Severity Classification of Traffic Accidents with Automated Emergency Alerting"
 license: MIT
+doi: "10.5281/zenodo.24335870"
 repository-code: "https://github.com/asmahekal/traffic-accident-detection-ref"
 authors:
   - family-names: Hekal
