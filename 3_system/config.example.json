@@ -1,0 +1,25 @@
+{
+  "model_path": "deteccion_accidentes_YOLOv12.pt",
+  "conf": 0.19,
+  "confirm_frames": 5,
+  "iou_thr": 0.3,
+  "use_overlap_rule": true,
+  "road_user_classes": [
+    "car",
+    "bike",
+    "person"
+  ],
+  "frame_skip": 1,
+  "alert_cooldown_s": 30,
+  "sender_email": "PUT_SENDER_GMAIL_HERE@gmail.com",
+  "recipients": [
+    "PUT_RECIPIENT_EMAIL_HERE@gmail.com"
+  ],
+  "measure_inbox": true,
+  "camera_index": 0,
+  "camera_lat": null,
+  "camera_lon": null,
+  "display": true,
+  "background_image": "",
+  "output_dir": "results"
+}

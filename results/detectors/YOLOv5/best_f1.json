@@ -1,0 +1,10 @@
+{
+  "deteccion_accidentes_YOLOv5": {
+    "best_conf": 0.204,
+    "best_f1": 41.9
+  },
+  "Accident_YOLOv5": {
+    "best_conf": 0.38,
+    "best_f1": 54.1
+  }
+}

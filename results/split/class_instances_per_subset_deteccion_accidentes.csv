@@ -1,0 +1,11 @@
+,train,valid,test
+bike,3249,729,692
+bike_bike_accident,177,32,65
+bike_object_accident,3,3,0
+bike_person_accident,147,10,33
+car,16111,3152,3642
+car_bike_accident,321,60,68
+car_car_accident,2160,553,577
+car_object_accident,233,61,72
+car_person_accident,22,6,12
+person,3162,703,759

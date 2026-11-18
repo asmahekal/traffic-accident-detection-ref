@@ -1,0 +1,16 @@
+# never commit credentials
+config.json
+.env
+*.secret
+# large or derived data
+*.pt
+raw/
+data_group_split/
+runs_group_split/
+runs/
+eval_videos/
+results_eval/
+results_latency/
+tracks_*.json
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Code for: YOLOv12-Based Real-Time Detection and Severity Classification of Traffic Accidents with Automated Emergency Alerting"
+license: MIT
+repository-code: "https://github.com/asmahekal/traffic-accident-detection-ref"
+authors:
+  - family-names: Hekal
+    given-names: Asmaa A.
+    orcid: "https://orcid.org/0009-0007-7234-4696"
+  - family-names: Shawky
+    given-names: Mahmoud A.
+    orcid: "https://orcid.org/0000-0003-3393-8460"
+  - family-names: Abass
+    given-names: Eman S.
+  - family-names: Shah
+    given-names: Syed T.
+    orcid: "https://orcid.org/0000-0003-4722-1786"
+  - family-names: Abdellatif
+    given-names: Ahmed Gamal
+    orcid: "https://orcid.org/0000-0002-3440-8448"
+preferred-citation:
+  type: article
+  title: "YOLOv12-Based Real-Time Detection and Severity Classification of Traffic Accidents with Automated Emergency Alerting"
+  journal: "International Journal of Intelligent Systems"
+  year: 2026
+  authors:
+    - family-names: Hekal
+      given-names: Asmaa A.
+    - family-names: Shawky
+      given-names: Mahmoud A.
+    - family-names: Abass
+      given-names: Eman S.
+    - family-names: Shah
+      given-names: Syed T.
+    - family-names: Abdellatif
+      given-names: Ahmed Gamal

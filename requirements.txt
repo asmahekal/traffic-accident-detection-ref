@@ -1,0 +1,10 @@
+# Tested on Kaggle (Python 3.11, NVIDIA T4 GPU)
+ultralytics>=8.3
+lap>=0.5.12          # required by ByteTrack in Ultralytics
+roboflow             # downloads the two datasets
+opencv-python
+numpy
+pandas
+pyyaml
+pillow
+requests             # approximate location lookup in the alerting system

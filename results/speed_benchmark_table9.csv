@@ -1,0 +1,6 @@
+model,params_M,inference_ms_median,inference_ms_p95,tracking_ms,pipeline_ms_median,pipeline_ms_p95,throughput_fps
+YOLOv5,9.1,11.9,12.0,1.3,15.3,16.0,65.3
+YOLOv8,11.1,13.7,14.0,1.3,17.2,18.0,57.9
+YOLOv9,7.3,16.1,16.5,1.7,20.0,22.4,49.3
+YOLOv11,9.4,12.0,12.2,1.3,15.5,16.3,64.3
+YOLOv12,9.3,14.5,14.8,1.4,18.0,19.0,55.2

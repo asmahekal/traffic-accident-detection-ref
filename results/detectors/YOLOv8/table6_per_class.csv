@@ -1,0 +1,13 @@
+dataset,class,YOLOv8
+Accident,mild,6.5
+Accident,moderate,42.6
+Accident,severe,53.3
+deteccion_accidentes,bike,50.4
+deteccion_accidentes,bike_bike_accident,11.6
+deteccion_accidentes,bike_person_accident,6.3
+deteccion_accidentes,car,71.3
+deteccion_accidentes,car_bike_accident,30.1
+deteccion_accidentes,car_car_accident,72.6
+deteccion_accidentes,car_object_accident,28.7
+deteccion_accidentes,car_person_accident,0.2
+deteccion_accidentes,person,44.5

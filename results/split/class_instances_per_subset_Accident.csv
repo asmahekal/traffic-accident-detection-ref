@@ -1,0 +1,4 @@
+,train,valid,test
+mild,129,34,41
+moderate,1377,295,295
+severe,4228,907,906

@@ -1,0 +1,33 @@
+{
+  "model_path": "/kaggle/input/notebooks/asmahekal/yolov12-paper/runs_group_split/deteccion_accidentes/YOLOv12/weights/best.pt",
+  "conf": 0.19,
+  "confirm_frames": 5,
+  "iou_thr": 0.3,
+  "use_overlap_rule": true,
+  "road_user_classes": [
+    "car",
+    "bike",
+    "person"
+  ],
+  "frame_skip": 1,
+  "alert_cooldown_s": 30,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 465,
+  "smtp_timeout_s": 15,
+  "smtp_max_retries": 3,
+  "sender_email": "<removed>",
+  "recipients": [
+    "<removed>"
+  ],
+  "measure_inbox": true,
+  "imap_host": "imap.gmail.com",
+  "inbox_wait_max_s": 120,
+  "camera_index": 0,
+  "camera_lat": null,
+  "camera_lon": null,
+  "read_timeout_s": 5,
+  "reconnect_attempts": 3,
+  "display": false,
+  "background_image": "",
+  "output_dir": "results_latency"
+}
